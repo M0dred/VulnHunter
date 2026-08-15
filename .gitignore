@@ -59,3 +59,7 @@ work/
 # Stray dir from a mis-quoted URL (e.g. a test writing "https://..." as a path)
 https:/
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
